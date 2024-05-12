@@ -1,1 +1,1 @@
-# i386_operating_system
+I engaged in programming the 6.828 JOS kernel, an operating system utilized in MIT's operating systems engineering course, showcasing proficiency in low-level programming, C, x86 assembly and collaborative software development.
